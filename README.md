@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>GOBINATH G</h1>
+  <h3>Learning...</h3>
+  <a href="https://linktr.ee/gobinath.gb">Reach Me !</a>
+</div>
+
+<!--
 - 👋 Hi, I’m Gobinath G
 - 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning Web Development
@@ -7,3 +14,4 @@
 - Twitter - [@gobinath_gb22](https://twitter.com/gobinath_gb22)
 - [LinkedIn](https://www.linkedin.com/in/gobinath-gb/)
 - [LinkTree](https://linktr.ee/gobinath.gb)
+-->
