@@ -1,7 +1,7 @@
 <div align="center">
   <h1>GOBINATH G</h1>
   <h3>Learning...</h3>
-  <a href="https://linktr.ee/gobinath.gb">Reach Me !</a>
+  <a href="https://linktr.ee/gobinath.gb" target="_blank">Reach Me !</a>
 </div>
 
 <!--
