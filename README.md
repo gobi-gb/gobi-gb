@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dYx3YFq2OiVLIssQH9/giphy.gif" height="100" />
+  <img src="https://media.giphy.com/media/dYx3YFq2OiVLIssQH9/giphy.gif" height="100" style="display:block; border-radius:50%;"/>
   <h1>GOBINATH G</h1>
   <h3>Passionate Learner</h3>
   <a href="https://linktr.ee/gobinath.gb" target="_blank">Reach Me !</a>
